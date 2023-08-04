@@ -1,0 +1,21 @@
+.wrapper {
+    max-width: 1200px;
+    margin: 3rem auto 0;
+    text-align: center;
+}
+
+.wrapper h2 {
+    margin-bottom: 1rem;
+}
+
+.wrapper input {
+    display: block;
+    margin: 1rem auto;
+    width: 80%;
+    max-width: 600px;
+}
+
+
+.btn {
+    padding: .3rem .8rem;
+}
